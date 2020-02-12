@@ -643,7 +643,7 @@
       \@restonecolfalse
     \fi
       \IfFileExists{\@currdir introduc.tex}{
-      \chapter{Introdu\c {c}\~{a}o\@mkboth{}{}}
+      \chapter{Introduction\@mkboth{}{}}
       \input{introduc.tex}}{}
     \if@restonecol\twocolumn\fi
     }
